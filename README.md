@@ -36,6 +36,8 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 ---
 
 ## 🖼️ Demo
+### 🌐 Live Demo
+👉 **Public URL:** [Click here to open the app](https://d8c8a01a838bda9532.gradio.live/)
 
 ### 💬 Diabetes Query — Symptoms & Treatment
 
