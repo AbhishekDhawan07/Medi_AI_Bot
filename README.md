@@ -7,7 +7,7 @@
 ## 📋 Table of Contents
 
 - [About the Project](#-about-the-project)
-- [Screenshots](#-screenshots)
+- [Demo](#-working-of-the-project)
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
 - [Architecture & RAG Pipeline](#-architecture--rag-pipeline)
@@ -35,7 +35,7 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Demo
 
 ### 💬 Diabetes Query — Symptoms & Treatment
 
