@@ -172,7 +172,7 @@ Medi_AI_Bot/
 - Python 3.9 or higher
 - A [Groq API Key](https://console.groq.com/) (free tier available)
 - A [Pinecone API Key](https://www.pinecone.io/) (free tier available)
-- Pinecone index named `medical-chatbot` created in the `us-east-1` region with **dimension 384** (matching MiniLM-L6-v2)
+
 
 ---
 
@@ -196,15 +196,6 @@ Or in a Jupyter / Colab cell:
              pinecone-client sentence-transformers gradio pypdf python-dotenv
 ```
 
-### 3. Create a Pinecone Index
-
-In your Pinecone dashboard:
-- **Index name:** `medical-chatbot`
-- **Dimensions:** `384`
-- **Metric:** `cosine`
-- **Region:** `us-east-1`
-
----
 
 ## 🔑 Environment Variables
 
