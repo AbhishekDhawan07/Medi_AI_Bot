@@ -7,7 +7,7 @@
 ## 📋 Table of Contents
 
 - [About the Project](#-about-the-project)
-- [Demo](#-working-of-the-project)
+- [Demo](#-demo)
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
 - [Architecture & RAG Pipeline](#-architecture--rag-pipeline)
