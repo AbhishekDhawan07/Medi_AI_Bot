@@ -43,7 +43,7 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 
 ![Diabetes Medical Chatbot](https://github.com/AbhishekDhawan07/Medi_AI_Bot/blob/main/Medical%20AI%20Chatbot%20using%20LangChain%20%2B%20Pinecone%20%2B%20Groq%20LLM/Diabetes%20Medical%20Chatbot.png?raw=true)
 
-*MedBot answering a question about diabetes symptoms and available treatments, using context retrieved from the medical knowledge base.*
+*Med AI Bot answering a question about diabetes symptoms and available treatments, using context retrieved from the medical knowledge base.*
 
 ---
 
@@ -51,7 +51,7 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 
 ![Fever Medical Chatbot](https://github.com/AbhishekDhawan07/Medi_AI_Bot/blob/main/Medical%20AI%20Chatbot%20using%20LangChain%20%2B%20Pinecone%20%2B%20Groq%20LLM/Fever%20Medical%20chatbot.png?raw=true)
 
-*MedBot providing guidance on when fever becomes a medical emergency, including information on lymphangitis and antimalarial drug interactions.*
+*Med AI Bot providing guidance on when fever becomes a medical emergency, including information on lymphangitis and antimalarial drug interactions.*
 
 ---
 
@@ -134,7 +134,7 @@ User Question
 
 ## 📖 Knowledge Base
 
-MedBot ships with a built-in knowledge base covering **10 core medical topics**. If a `Medical_book.pdf` is found in the working directory, it is used instead for richer context.
+Med AI Bot ships with a built-in knowledge base covering **10 core medical topics**. If a `Medical_book.pdf` is found in the working directory, it is used instead for richer context.
 
 | # | Topic | Key Content |
 |---|---|---|
