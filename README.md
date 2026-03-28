@@ -1,4 +1,4 @@
-# 🏥 Medi_AI_Bot — AI Medical Assistant
+# 🏥 Medi AI Bot — AI Medical Assistant
 
 > **Powered by LangChain · Pinecone · Groq LLaMA3 · RAG Pipeline**
 
