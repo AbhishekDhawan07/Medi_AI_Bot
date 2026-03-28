@@ -27,9 +27,9 @@
 
 ## 🩺 About the Project
 
-**MedBot** is an AI-powered medical chatbot built using a **Retrieval-Augmented Generation (RAG)** pipeline. It provides accurate, context-aware general health information by combining a curated medical knowledge base with the power of large language models.
+**Med AI Bot** is an AI-powered medical chatbot built using a **Retrieval-Augmented Generation (RAG)** pipeline. It provides accurate, context-aware general health information by combining a curated medical knowledge base with the power of large language models.
 
-MedBot is designed to serve as a first point of reference for common medical queries — helping users understand symptoms, treatments, and general health guidelines — while always emphasizing that professional medical consultation is essential for diagnosis and treatment.
+Med AI Bot is designed to serve as a first point of reference for common medical queries — helping users understand symptoms, treatments, and general health guidelines — while always emphasizing that professional medical consultation is essential for diagnosis and treatment.
 
 The chatbot is built entirely inside a **Jupyter Notebook** and deployed through a **Gradio** web interface, making it accessible and easy to run both locally and in the cloud (e.g., Google Colab).
 
