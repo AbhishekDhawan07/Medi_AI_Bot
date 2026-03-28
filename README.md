@@ -154,15 +154,14 @@ MedBot ships with a built-in knowledge base covering **10 core medical topics**.
 ## 📁 Project Structure
 ```
 Medi_AI_Bot/
-│
+├── 📄 README.md 
 ├── Medical AI Chatbot using LangChain + Pinecone + Groq LLM/
 │   ├── Medical_AI_Chatbot.ipynb          # Main Jupyter Notebook (all-in-one)
 │   ├── Diabetes Medical Chatbot.png      # Screenshot 1
 │   └── Fever Medical chatbot.png         # Screenshot 2
 │
 ├── .env                                   # API keys (not committed to git)
-├── Medical_book.pdf                       # Optional: custom medical PDF
-└── README.md                              # This file
+├── Medical_book.pdf                       # custom medical PDF
 ```
 
 > **Note:** The entire application — data ingestion, embedding, RAG chain setup, and Gradio UI — lives inside a single Jupyter Notebook for portability.
