@@ -159,9 +159,9 @@ Medi_AI_Bot/
 │   ├── Medical_AI_Chatbot.ipynb          # Main Jupyter Notebook (all-in-one)
 │   ├── Diabetes Medical Chatbot.png      # Screenshot 1
 │   └── Fever Medical chatbot.png         # Screenshot 2
-│
+│   └── Medical_book.pdf                  # custom medical PD
 ├── .env                                   # API keys (not committed to git)
-├── Medical_book.pdf                       # custom medical PDF
+              
 ```
 
 > **Note:** The entire application — data ingestion, embedding, RAG chain setup, and Gradio UI — lives inside a single Jupyter Notebook for portability.
