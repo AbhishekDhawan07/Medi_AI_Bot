@@ -160,7 +160,7 @@ Medi_AI_Bot/
 │   ├── Diabetes Medical Chatbot.png      # Screenshot 1
 │   └── Fever Medical chatbot.png         # Screenshot 2
 │   └── Medical_book.pdf                  # custom medical PD
-|   └── .env                               # API keys (not committed to git)
+├── .env                                  # API Keys(not commited to git)
 
               
 ```
