@@ -74,15 +74,15 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 
 ## ✨ Features
 
-- 🤖 **Conversational AI** — Multi-turn medical Q&A powered by LLaMA 3.3 70B via Groq
-- 🔍 **RAG Pipeline** — Retrieves relevant context from a vector database before generating answers
-- 📚 **Dual Knowledge Source** — Works with both a medical PDF book (if provided) and a built-in curated knowledge base
-- 🧠 **Conversation Memory** — Remembers the last 5 exchanges for contextual continuity
-- ⚡ **Quick Topic Buttons** — One-click access to 12 pre-loaded medical topics
-- 🌐 **Gradio Web Interface** — Clean, browser-based UI with shareable public link
-- 🔒 **Safe by Design** — Always reminds users to consult a qualified doctor; never gives standalone dosage recommendations
-- 📄 **PDF Support** — Optionally load any medical PDF to extend the knowledge base
-- 🧩 **Modular Notebook** — Each cell is a self-contained step: load → embed → retrieve → generate → serve
+- 🤖 **Conversational AI** - Multi-turn medical Q&A powered by LLaMA 3.3 70B via Groq
+- 🔍 **RAG Pipeline** - Retrieves relevant context from a vector database before generating answers
+- 📚 **Dual Knowledge Source** - Works with both a medical PDF book (if provided) and a built-in curated knowledge base
+- 🧠 **Conversation Memory** - Remembers the last 5 exchanges for contextual continuity
+- ⚡ **Quick Topic Buttons** - One-click access to 12 pre-loaded medical topics
+- 🌐 **Gradio Web Interface** - Clean, browser-based UI with shareable public link
+- 🔒 **Safe by Design** - Always reminds users to consult a qualified doctor; never gives standalone dosage recommendations
+- 📄 **PDF Support** - Optionally load any medical PDF to extend the knowledge base
+- 🧩 **Modular Notebook** - Each cell is a self-contained step: load -> embed -> retrieve -> generate -> serve
 
 ---
 
