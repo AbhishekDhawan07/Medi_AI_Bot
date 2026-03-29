@@ -1,6 +1,6 @@
-# 🏥 Medi AI Bot — AI Medical Assistant
+# 🏥 Medi AI Bot - AI Medical Assistant
 
-> **Powered by LangChain · Pinecone · Groq LLaMA3 · RAG Pipeline**
+> **Powered by LangChain ,Pinecone , Groq, LLaMA3 and RAG Pipeline**
 
 ---
 
@@ -124,11 +124,11 @@ User Question
 
 **How it works:**
 
-1. **Ingestion** — Medical texts (PDF or built-in) are loaded and split into 500-token chunks with 50-token overlap.
-2. **Embedding** — Each chunk is embedded using `all-MiniLM-L6-v2` and stored in Pinecone.
-3. **Retrieval** — On every user query, the top-4 most similar chunks are retrieved from Pinecone.
-4. **Generation** — Retrieved context + conversation history is passed to LLaMA 3.3 via Groq to generate a grounded, empathetic response.
-5. **Memory** — The last 5 turns of conversation are maintained for contextual follow-ups.
+1. **Ingestion** - Medical texts (PDF or built-in) are loaded and split into 500-token chunks with 50-token overlap.
+2. **Embedding** - Each chunk is embedded using `all-MiniLM-L6-v2` and stored in Pinecone.
+3. **Retrieval** - On every user query, the top-4 most similar chunks are retrieved from Pinecone.
+4. **Generation** - Retrieved context + conversation history is passed to LLaMA 3.3 via Groq to generate a grounded, empathetic response.
+5. **Memory** - The last 5 turns of conversation are maintained for contextual follow-ups.
 
 ---
 
@@ -231,7 +231,7 @@ Open `Medical_AI_Chatbot.ipynb` and run the cells in order:
 | **Cell 6** | Connect to Pinecone, build LLM + RAG chain, run test query |
 | **Cell 7** | Launch Gradio UI (generates public share link) |
 
-> After running the final cell, Gradio prints a **public URL** (e.g., `https://xxxx.gradio.live`) valid for 72 hours — share it with anyone!
+> After running the final cell, Gradio prints a **public URL** (e.g., `https://xxxx.gradio.live`) valid for 72 hours - share it with anyone!
 
 ---
 
