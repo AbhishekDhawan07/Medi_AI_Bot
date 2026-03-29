@@ -296,5 +296,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  Built with ❤️ using LangChain · Pinecone · Groq · Gradio
+  Built with ❤️ using LangChain, Pinecone, Groq and Gradio
 </div>
