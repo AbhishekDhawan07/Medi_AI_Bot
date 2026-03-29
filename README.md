@@ -240,7 +240,7 @@ Open `Medical_AI_Chatbot.ipynb` and run the cells in order:
 1. **Open the Gradio URL** in any browser.
 2. **Type a question** in the "Your Question" text box and press **Send** or hit Enter.
 3. **Use Quick Topic buttons** on the left sidebar to instantly ask pre-loaded questions about common conditions.
-4. **Continue the conversation** — MedBot remembers context for follow-up questions.
+4. **Continue the conversation** - MedBot remembers context for follow-up questions.
 5. Press **Clear** to reset the conversation and start fresh.
 
 ---
