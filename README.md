@@ -39,7 +39,7 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 ### 🌐 Live Demo
 👉 **Public URL:** [Click here to open the app](https://d8c8a01a838bda9532.gradio.live/)
 
-### 💬 Diabetes Query — Symptoms & Treatment
+### 💬 Diabetes Query - Symptoms & Treatment
 
 ![Diabetes Medical Chatbot](https://github.com/AbhishekDhawan07/Medi_AI_Bot/blob/main/Medical%20AI%20Chatbot%20using%20LangChain%20%2B%20Pinecone%20%2B%20Groq%20LLM/Diabetes%20Medical%20Chatbot.png?raw=true)
 
@@ -47,7 +47,7 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 
 ---
 
-### 🌡️ Fever Query — When to Worry
+### 🌡️ Fever Query - When to Worry
 
 ![Fever Medical Chatbot](https://github.com/AbhishekDhawan07/Medi_AI_Bot/blob/main/Medical%20AI%20Chatbot%20using%20LangChain%20%2B%20Pinecone%20%2B%20Groq%20LLM/Fever%20Medical%20chatbot.png?raw=true)
 
@@ -59,7 +59,7 @@ The chatbot is built entirely inside a **Jupyter Notebook** and deployed through
 
 | Layer | Technology |
 |---|---|
-| **LLM** | Groq — LLaMA 3.3 70B Versatile |
+| **LLM** | Groq - LLaMA 3.3 70B Versatile |
 | **Orchestration** | LangChain (ConversationalRetrievalChain) |
 | **Vector Database** | Pinecone |
 | **Embeddings** | HuggingFace — `sentence-transformers/all-MiniLM-L6-v2` |
