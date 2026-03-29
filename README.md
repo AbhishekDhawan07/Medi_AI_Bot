@@ -165,7 +165,7 @@ Medi_AI_Bot/
               
 ```
 
-> **Note:** The entire application — data ingestion, embedding, RAG chain setup, and Gradio UI — lives inside a single Jupyter Notebook for portability.
+> **Note:** The entire application - data ingestion, embedding, RAG chain setup, and Gradio UI - lives inside a single Jupyter Notebook for portability.
 
 ---
 
